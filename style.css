@@ -1,0 +1,70 @@
+body {
+            font-family: Arial;
+            margin:0;
+            padding:0;
+            background-color: #fff;
+        }
+
+        header {
+            background-color: black;
+            color: white;
+            text-align: center;
+            border: black 5px solid;
+            
+            padding:10px;
+        }   
+
+
+        nav {
+            color:white;    
+            background-color: rgb(66, 66, 66);
+            text-align: center;
+            padding:10px;
+        }
+
+        nav a {
+                color:#fff;
+            text-decoration: none;
+        }
+
+        .container {
+                margin:auto;  
+                
+                max-width: 800px;
+        border-radius: 5px;
+        box-shadow:0 0 10px rgb(0, 0, 0, 0.2);
+        }
+
+        .box {
+              
+                   background-color: rgb(60, 178, 224);
+                   height:40px;
+                   text-align: center;
+                   border: 5px solid;
+                   color: white;
+                   padding:10px;
+        }
+
+        .red-box {
+                background: red;
+                
+                
+                
+                
+        }
+
+        .green-box {
+                background: green;
+                
+             
+
+        }
+
+        .blue-box {
+            
+                background: darkblue;
+           
+                
+                
+                
+        }
